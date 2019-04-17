@@ -90,6 +90,7 @@ body {
 
 .portada{
     background-image: url("../images/computo.png");
+    background-repeat: no-repeat;
     height: 100vh;
     position: relative;
     min-height: 600px;
@@ -473,8 +474,17 @@ MOVIL (XS revisamos en 320px)
 
 .titulo-principal{
     font-size: 2rem;
+    margin-top: 140px;
 }
 
+.portada {
+    background-image: url(../images/computo-min.png);
+    background-repeat: no-repeat;
+    height: 100vh;
+    position: relative;
+    min-height: 360px;
+    overflow: hidden;
+}
 
 }
 
