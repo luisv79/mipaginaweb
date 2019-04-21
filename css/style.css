@@ -480,9 +480,9 @@ MOVIL (XS revisamos en 320px)
 .portada {
     background-image: url(../images/computo-min.png);
     background-repeat: no-repeat;
-    height: 100vh;
+    height: 60vh;
     position: relative;
-    min-height: 60px;
+    min-height: 360px;
     overflow: hidden;
 }
 
