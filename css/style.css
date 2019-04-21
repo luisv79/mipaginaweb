@@ -482,7 +482,7 @@ MOVIL (XS revisamos en 320px)
     background-repeat: no-repeat;
     height: 100vh;
     position: relative;
-    min-height: 360px;
+    min-height: 60px;
     overflow: hidden;
 }
 
